@@ -2,10 +2,10 @@
 
 <img src="https://github.com/maryamimambux/Maryam-Imam/blob/main/Computer%20Scientist.jpg" alt="banner" width="100%" />
 
-# Hi 👋, I'm YOUR NAME
-### 🎓 Final-year Computer Science Student | 💻 C++ Developer | 🚀 System Builder
+# Hi 👋, I'm Maryam Imam Bux
+### 🎓 A Computer Science Student | 💻 C++ Developer | 🚀 System Builder
 
-I'm currently working on an **Automated Transport Management System** using C++ and file handling.  
+I'm currently working on C++ Games.  
 I love building backend systems, exploring object-oriented design, and learning new technologies.
 
 ---
@@ -18,9 +18,9 @@ I love building backend systems, exploring object-oriented design, and learning 
 ---
 
 ### 📫 Contact Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
+- 📧 Email: [maryamimambux@gmail.com](mailto:your-email@example.com)
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/maryam-imam-394455342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  
 ---
 
 ### 📊 GitHub Stats

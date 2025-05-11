@@ -1,6 +1,6 @@
 # Maryam-Imam
 
-<img src="https://your-banner-link.com/banner.png" alt="banner" width="100%" />
+<img src="https://your-banner-link.com/banner.png](https://github.com/maryamimambux/Maryam-Imam/blob/main/Computer%20Scientist.jpg" alt="banner" width="100%" />
 
 # Hi 👋, I'm YOUR NAME
 ### 🎓 Final-year Computer Science Student | 💻 C++ Developer | 🚀 System Builder

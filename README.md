@@ -19,7 +19,7 @@ I love building backend systems, exploring object-oriented design, and learning 
 
 ### 📫 Contact Me
 - 📧 Email: [maryamimambux@gmail.com](mailto:your-email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/maryam-imam-394455342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🔗 LinkedIn: [linkedin.com/in/maryam-imam](https://www.linkedin.com/in/maryam-imam-394455342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
 ---
 
